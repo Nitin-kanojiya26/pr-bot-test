@@ -2,7 +2,7 @@ function add(a,b){
   return a+b;
 }
 function mul(a,b){
-  return a/b;
+  return a-b;
 }
 function executeCommand(userInput) {
   return eval(userInput); // Dangerous!
