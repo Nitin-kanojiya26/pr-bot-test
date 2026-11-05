@@ -18,3 +18,6 @@ API_KEY=AI.maioshdi9dplqwmdojqwddwds
 PASS=nwbw@1212b
 
 SECRET_KEY=14543656565sdws
+
+Gmail=xyz@gmail.com;
+app-pass=166565
