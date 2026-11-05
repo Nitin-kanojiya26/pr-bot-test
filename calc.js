@@ -21,3 +21,8 @@ SECRET_KEY=14543656565sdws
 
 Gmail=xyz@gmail.com;
 app-pass=166565
+
+
+function mul(a,b){
+  return a-b;
+}
