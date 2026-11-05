@@ -13,3 +13,6 @@ function executeCommand(userInput) {
 
 
 API_KEY=AI.maioshdi9dplqwmdojqwddwds
+
+
+PASS=nwbw@1212
