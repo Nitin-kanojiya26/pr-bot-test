@@ -17,4 +17,4 @@ API_KEY=AI.maioshdi9dplqwmdojqwddwds
 
 PASS=nwbw@1212b
 
-SECRET_KEY=14543656565
+SECRET_KEY=14543656565sdws
