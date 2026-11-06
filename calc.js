@@ -24,5 +24,10 @@ app-pass=166565
 
 
 function mul(a,b){
-  return a-b;
+  return a*b;
 }
+
+
+
+
+userID=45263;
