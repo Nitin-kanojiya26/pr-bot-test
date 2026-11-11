@@ -8,6 +8,6 @@ function sub(a,b){
   return a-b;
 }
 function Div(a,b){
-  if(b==0) return -1;
+  if(b==0) throw new Error('Division by zero is not allowed');
    return a/b;
 }
