@@ -4,6 +4,6 @@ function add(a,b){
 function mul(a,b){
   return a*b;
 }
-function sub(a,m){
+function sub(a,b){
   return a-m;
 }
